@@ -1,11 +1,26 @@
 ~ Sim, estou bem
 : Noi, kilmã ̃eh
 
-~ (A noite de 27 de janeiro de 2013 -> Sujeito) estarreceu o Brasil.
-: 
+~ (A noite de 27 de janeiro de 2013 -> Sujeito) estarreceu (o Brasil -> ObjI).
+: ũ Braziw jolu 
 
 ~ A cidade de Santa Maria entrou em luto com a impensável perda de 242 pessoas no incêndio da boate Kiss, o segundo maior do país em número de vítimas fatais.
 : 
 
 ~ Pela primeira vez, os sobreviventes, familiares das vítimas, equipes de resgate e profissionais da área da saúde contam, em depoimentos dolorosamente honestos, o que de fato aconteceu durante as horas de aflição que, ainda hoje, parecem intermináveis.
+: 
+
+~ Daniela Arbex fez em Todo dia a mesma noite um memorial em homenagem às vítimas de uma madrugada tenebrosa, mesmo que, para isso, tenha precisado revisitar o momento em que jovens se amontoaram nos banheiros da Kiss em busca de ar, o ginásio onde pais foram buscar seus filhos mortos, os hospitais onde se tentava desesperadamente salvar as vidas que se esvaíam.
+: 
+
+~ Foi também em busca dos que continuam vivos, dos dias que antecederam a tragédia e os seguintes ao evento, revelando as consequências de descuidos banalizados por empresários, políticos e cidadãos.
+: 
+
+~ A leitura de Todo dia a mesma noite é uma dolorosa e necessária tomada de consciência, um despertar de empatia pelos jovens que tiveram seus futuros barbaramente interrompidos.
+: 
+
+~ Imaginar vividamente que eles saíram de suas casas, se despediram de seus pais e esperavam uma noite de música e diversão dilacera qualquer apaziguamento que possamos sentir em relação ao crime, ainda impune.
+: 
+
+~ Nessa reportagem contundente sobre a tragédia da boate Kiss, Daniela Arbex se reafirma como uma das jornalistas mais relevantes do país ao trazer para o lugar de perplexidade as histórias que o Brasil não deveria esquecer.
 : 

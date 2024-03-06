@@ -194,7 +194,7 @@ const substantivos = {
   "bunda": "", "óleo": "", "petróleo": "", "exploração": "",
   "rabo": "", "gelo": "", "metal": "", "madeira": "",
   "unha": "", "língua": "", "orelha": "", "tábua": "",
-  "noite": "", "dia": "", "tarde": "", "travesseiro": "",
+  "noite": "liˈmu", "dia": "ˈpětxǒ", "tarde": "", "travesseiro": "",
 }
 
 console.log(Object.keys(substantivos).length);

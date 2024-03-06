@@ -1,5 +1,3 @@
-// A ordem é OSV
-// figurukó jikre
 const verbos = {
   "ser": "mak", "estar": "ẽh", "fazer": "okˈi", "dar": "lla", "ajudar": "tà",
   "tocar (instrumento)": "nor", "comer": "k'o", "beber": "hit", "agradecer": "bup",
@@ -87,7 +85,7 @@ const verbos = {
   "publicar": "", "desmanchar": "", "extirpar": "", "impichar": "",
   "escovar": "", "ovacionar": "", "ovular": "", "eleger": "",
   "recolher": "", "expandir": "", "retrair": "", "ejacular": "",
-  "expelir": "", "ingerir": "", "estarrecer": "", "espantar": "",
+  "expelir": "", "ingerir": "", "estarrecer": "ˈjolu", "espantar": "",
   "desviar": "", "praticar": "", "renegar": "", "regar": "",
   "criminalizar": "", "cobrir": "", "apresentar": "", "presentear": "",
   "assassinar": "", "perder": "", "ganhar": "", "conseguir": "",
@@ -113,10 +111,10 @@ const verbos = {
   "pesquisar": "", "investigar": "", "existir": "", "decidir": "",
   "sonhar": "", "caminhar": "", "falir": "", "dispor": "",
   "construir": "", "avaliar": "", "atender": "", "prover": "",
-  "": "", "": "", "": "", "": "",
-  "": "", "": "", "": "", "": "",
-  "": "", "": "", "": "", "": "",
-  "": "", "": "", "": "", "": "",
+  "decapitar": "", "decepar": "", "costurar": "", "filtrar": "",
+  "avançar": "", "hostilizar": "", "desfazer": "", "estragar": "",
+  "defecar": "", "cagar": "", "mijar": "", "verbalizar": "",
+  "alertar": "", "sinalizar": "", "gesticular": "", "gestionar": "",
   "": "", "": "", "": "", "": "",
   "": "", "": "", "": "", "": "",
   "": "", "": "", "": "", "": "",
