@@ -4,7 +4,6 @@
   // Feminino
   // Masculino
   // Neutro
-  // Bigênero
   // Vegetal
   // Animado
   // Inanimado

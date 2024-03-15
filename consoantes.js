@@ -10,7 +10,7 @@ const consoantes = {
   "f": "f",
   "p": "p",
   "l": "l",
-  "j": "i",
+  "j": "'i",
   "w": "w",
   "v": "v",
   "d": "d",
