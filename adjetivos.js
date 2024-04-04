@@ -1,5 +1,5 @@
 const adjetivos = {
-  "grosso": "", "fino": "", "corpo": "hreb", "esquisito": "",
+  "grosso": "ruˈti", "fino": "", "": "", "esquisito": "",
   "lindo": "", "fofo": "", "bonito": "", "pequeno": "",
   "grande": "", "enorme": "", "gostoso": "", "quente": "",
   "frio": "", "gelado": "", "inteligente": "", "burro": ""
