@@ -1,17 +1,46 @@
 const artigos = {
   "definidos": {
-    "feminino definido": "ũ-",
-    "masculino definido": "iv",
-    "neutro definido": "ẽ-",
-    "vegetal definido": "hu",
-    "imaterial definido": "u'i",
-    "impalpável definido": "iew",
-    "animado definido": "ai",
-    "inanimado definido": "aia",
+    "singular": {
+      "feminino": "a'e",
+      "masculino": "fit",
+      "neutro": "po",
+      "vegetal": "lẽ",
+      "animado": "íat",
+      "inanimado": "miio",
+      "imaterial": "kil",
+      "impalpável": "rab",
+    },
+    "plural": {
+      "feminino": "a'eh",
+      "masculino": "fith",
+      "neutro": "poh",
+      "vegetal": "lẽh",
+      "animado": "íath",
+      "inanimado": "miioh",
+      "imaterial": "kili",
+      "impalpável": "raba",
+    }
   },
   "indefinidos": {
-     
+    "singular": {
+      "feminino": "a'es",
+      "masculino": "fits",
+      "neutro": "pos",
+      "vegetal": "lẽs",
+      "animado": "íats",
+      "inanimado": "miios",
+      "imaterial": "kils",
+      "impalpável": "rabs",
+    },
+    "plural": {
+      "feminino": "a'ehe",
+      "masculino": "fithe",
+      "neutro": "pohe",
+      "vegetal": "lẽhe",
+      "animado": "íathe",
+      "inanimado": "mioohe",
+      "imaterial": "kilihe",
+      "impalpável": "rabahe",
+    }
   }
 };
-
-console.log(Object.keys(artigos).length);
